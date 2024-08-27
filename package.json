@@ -1,0 +1,28 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "trabalho da faculdade",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielKuiawa/trabalho.git#master"
+  },
+  "author": "Alan Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielKuiawa/trabalho/issues"
+  },
+  "homepage": "https://github.com/GabrielKuiawa/trabalho/tree/master#readme",
+  "dependencies": {
+    "trabalho": "file:"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "nodemon": "^3.1.4",
+    "postcss-cli": "^11.0.0"
+  }
+}
